@@ -1,8 +1,8 @@
 # Jiho Lee
 
-Math–Computer Science at UC San Diego, focused on backend systems, data infrastructure, observability, and applied mathematics.
+Math–Computer Science at UC San Diego, focused on applied mathematics, statistics, and formal proofs in Lean.
 
-Java · Spring Boot · Python · TypeScript · SQL · Redis · Docker
+Python · TypeScript · SQL · Lean
 
 ## Featured Projects
 
