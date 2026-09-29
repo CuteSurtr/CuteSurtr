@@ -1,6 +1,8 @@
 # Jiho Lee
 
-Math–Computer Science at UC San Diego, focused on applied mathematics, statistics, and formal proofs in Lean.
+Math–Computer Science at UC San Diego
+
+You may also see unfinished projects and archived class notes in here
 
 Python · TypeScript · SQL · Lean
 
