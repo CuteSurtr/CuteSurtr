@@ -2,7 +2,7 @@
 
 Math–Computer Science at UC San Diego
 
-You may also see unfinished projects and archived class notes in here
+You may also see my unfinished projects and archived class notes in here
 
 Python · TypeScript · SQL · Lean
 
